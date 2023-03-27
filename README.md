@@ -25,7 +25,7 @@ JSnack 6
 2) creo un ciclo for che si ripete per il numero di volte indicato dal numero inserito dall'utente
 3) attraverso math.pow creo il cubo di 'i'
 
-JSnack 6
+JSnack 7
 ===
 
 ## Consegna
@@ -38,7 +38,10 @@ JSnack 6
 1) inizializzo a 0 una variabile i che mi indica l'esponente e una variabile pow che indica il risultato della potenza
 2) in un ciclo do while indico come esponente di 2 la variabile i che incrementa di 1 fino a che il risultato pow non raggiunge un numero inferiore a 1000
 
-## JSnack 8
+JSnack 7
+===
+
+## Consegna
  Chiedi un numero di 4 cifre all’utente
  e calcola la somma di tutte le cifre che compongono il numero.
  in questo caso possiamo sfruttare a nostro vantaggio il fatto che
